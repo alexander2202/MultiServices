@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwmvCnw9PmLpsLsfHKj7ker1nnnU3VEn1X5Zly2D3DYvsht5hUYWgchvAnhtKZvsllz3/Eg78w6Gpud4eFErnA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ERTelekomTest\\ERTelekomTest\\ERTelekomTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zikan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
